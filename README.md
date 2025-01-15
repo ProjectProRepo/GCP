@@ -18,12 +18,12 @@ Explore a wide range of resources designed to boost your GCP expertise:
 
 | **Section**       | **Description**                                            |
 |--------------------|------------------------------------------------------------|
-| [Fundamentals](#fundamentals) | Core GCP concepts, architectures, and services.       |
-| [Tutorials](#tutorials--recipes) | Practical guides to implement GCP workflows.          |
-| [Pro Tips](#practical-tips)    | Expert insights for leveraging GCP effectively.       |
-| [Projects](#gcp-projects)      | Real-world examples to build practical expertise.     |
-| [Career Guidance](#career-guidance) | Tips, certifications, and resources for growth.         |
-| [Free Resources](#free-resources) | Complimentary guides to expand your knowledge.         |
+| Fundamentals | Core GCP concepts, architectures, and services.       |
+| Tutorials | Practical guides to implement GCP workflows.          |
+| Pro Tips   | Expert insights for leveraging GCP effectively.       |
+| Projects     | Real-world examples to build practical expertise.     |
+| Career Guidance | Tips, certifications, and resources for growth.         |
+| Free Resources | Complimentary guides to expand your knowledge.         |
 
 
 
